@@ -1,0 +1,1 @@
+# rime-kmaer-schema
