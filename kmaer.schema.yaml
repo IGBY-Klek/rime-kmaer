@@ -49,7 +49,7 @@ speller:
 
 
 translator:
-  dictionary: kme_rom
+  dictionary: kmaer
   preedit_format:
     - xform/([nlrwy])a/$1ea/
     - xform/([nl])ue/$1üe/
