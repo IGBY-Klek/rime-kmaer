@@ -7,7 +7,7 @@ schema:
   version: '0.1'
   author:
     - 冯建军 <Klekta@163.com>
-  description: |使用了拉丁字母+附加符号拼写的高棉语输入法。
+  description: |使用了拉丁字母+附加符号拼写的高棉语输入方案。
   
 
 switches:
